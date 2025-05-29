@@ -11,7 +11,7 @@
 🧠 Learning Goals: Mastering C++, HTML, CSS, JavaScript, Git, GitHub, React.js, Express.js, and Full Stack Web Development
 - 🌱 I’m learning **JavaScript, React, Node.js, Express.js, MongoDB**
 - 💬 Ask me about **web development, design, and front-end projects**
-- 📫 Reach me at **@anushkadwivedi0187@gmail.com**
+- 📫 Reach me at **anushkadwivedi0187@gmail.com**
 - ⚡ Fun fact: I love creating colorful UI and bringing ideas to life through code!
 
 ---
