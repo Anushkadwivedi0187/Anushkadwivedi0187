@@ -69,10 +69,11 @@
 ---
 
 ### 📬 Connect With Me:
-[https://github.com/Anushkadwivedi0187](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)]
-🔗 LinkedIn:https://www.linkedin.com/in/anushka-dwivedi-6ab937255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### 🤝 Connect with Me
 
-💌 Email:anushkadwivedi0187@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushkadwivedi0187)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-dwivedi-6ab937255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkadwivedi0187@gmail.com)
 
 🌐 Portfolio: Coming soon...
 
